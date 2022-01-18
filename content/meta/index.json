@@ -8,5 +8,11 @@
     ],
     "node.5c1beaa4-952b-43c3-b059-42ad7f8c282c": [
         "user.62457a0c-cba9-4e8b-a77d-e77f681d5205"
+    ],
+    "path_alias.a0189319-9345-40da-921c-6780c66dd3e9": [
+        "node.b04d4e82-3ec6-4a0c-bcf2-441736a6cd34"
+    ],
+    "node.b04d4e82-3ec6-4a0c-bcf2-441736a6cd34": [
+        "user.62457a0c-cba9-4e8b-a77d-e77f681d5205"
     ]
 }
